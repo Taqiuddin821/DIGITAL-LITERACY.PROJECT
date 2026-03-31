@@ -1,0 +1,9 @@
+A brightly colored, futuristic digital literacy workshop template with five pillars and icons.
+
+Pillar 1: "FOUNDATIONS & DEVICES," blue with a desktop computer and bullet points on hardware, file management, Wi-Fi, and a file scavenger hunt.
+Pillar 2: "NAVIGATING THE ONLINE WORLD," green with a magnifying glass and bullet points on browsers, evaluation, fact-checking, and a challenge.
+Pillar 3: "COMMUNICATION & COLLABORATION," yellow with an email and speech bubbles and bullet points on email etiquette, video conferencing, cloud tools, and sending emails.
+Pillar 4: "SAFETY & SECURITY," orange with a shield and locks and bullet points on passwords, phishing, updates, and spotting phish.
+Pillar 5: "DIGITAL FOOTPRINT & REPUTATION," purple with an avatar and network lines and bullet points on understanding footprints, netiquette, reputation, and Google analysis.
+
+The pillars are connected by blue tubes with orange lights, and the header reads "DIGITAL LITERACY WORKSHOP TEMPLATE" and "CORE SKILLS & LEARNING PATHWAY."
