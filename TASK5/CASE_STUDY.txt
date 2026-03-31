@@ -1,0 +1,7 @@
+Case Study on UPI Fraud
+
+In recent years, the rise of digital payments in India, especially through Unified Payments Interface (UPI), has made transactions fast and convenient. However, it has also led to an increase in fraud cases. One common case involves a victim receiving a call from a fraudster pretending to be a bank official or customer support executive. The fraudster convinces the victim to “verify” their account or receive money by approving a “collect request” on apps like Google Pay or PhonePe.
+
+In one such case, a college student trying to sell a product online received a call from a buyer. The fraudster sent a UPI collect request instead of making payment and guided the student to enter their UPI PIN, claiming it was required to receive money. Trusting the caller, the student entered the PIN and unknowingly authorized a payment. Within minutes, money was debited from their account.
+
+This case highlights how fraudsters exploit lack of awareness and social engineering tactics rather than technical hacking. Victims often act in urgency or confusion, leading to financial loss. It shows the importance of understanding that UPI PIN is only required to send money, not to receive it.

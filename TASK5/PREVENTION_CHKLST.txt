@@ -1,0 +1,5 @@
+Prevention Checklist for UPI Fraud
+
+To stay safe from UPI fraud, users must follow some essential precautions. Never share your UPI PIN, OTP, or bank details with anyone, even if they claim to be from the bank. Always remember that receiving money does not require entering a PIN. Carefully check payment requests before approving them, especially “collect requests.” Avoid clicking on unknown links or downloading apps suggested by strangers.
+
+Users should verify the identity of callers and avoid trusting unknown buyers or sellers in online transactions. It is also important to use official apps like BHIM, Google Pay, or PhonePe and keep them updated. Enabling app locks and SMS alerts can add extra security. In case of any suspicious activity, immediately report it to the bank or call the national cybercrime helpline (1930). Awareness, caution, and quick action are the best defenses against UPI fraud.
